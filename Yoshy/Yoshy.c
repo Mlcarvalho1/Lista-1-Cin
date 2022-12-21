@@ -52,16 +52,4 @@
 			break;
 		}
 
-	// 	if(maior == g) {
-	// 		printf("Verde");
-	// 	}
-	// 	if(maior == r) {
-	// 		printf("Vermelho");
-	// 	}
-	// 	if(maior == p) {
-	// 		printf("Roxo");
-	// 	}
-	// 	if(maior == y) {
-	// 		printf("Amarelo");
-	// 	}
 	}
